@@ -6,3 +6,11 @@ C:\Users\USUARIO\Desktop\Progra ll\Bebidas\Bebidas\obj\Debug\Bebidas.csproj.Sugg
 C:\Users\USUARIO\Desktop\Progra ll\Bebidas\Bebidas\obj\Debug\Bebidas.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Desktop\Progra ll\Bebidas\Bebidas\obj\Debug\Bebidas.exe
 C:\Users\USUARIO\Desktop\Progra ll\Bebidas\Bebidas\obj\Debug\Bebidas.pdb
+C:\Users\mmaye\Documents\GitHub\Bebidas\Bebidas\Bebidas\bin\Debug\Bebidas.exe.config
+C:\Users\mmaye\Documents\GitHub\Bebidas\Bebidas\Bebidas\bin\Debug\Bebidas.exe
+C:\Users\mmaye\Documents\GitHub\Bebidas\Bebidas\Bebidas\bin\Debug\Bebidas.pdb
+C:\Users\mmaye\Documents\GitHub\Bebidas\Bebidas\Bebidas\obj\Debug\Bebidas.csproj.AssemblyReference.cache
+C:\Users\mmaye\Documents\GitHub\Bebidas\Bebidas\Bebidas\obj\Debug\Bebidas.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmaye\Documents\GitHub\Bebidas\Bebidas\Bebidas\obj\Debug\Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\mmaye\Documents\GitHub\Bebidas\Bebidas\Bebidas\obj\Debug\Bebidas.exe
+C:\Users\mmaye\Documents\GitHub\Bebidas\Bebidas\Bebidas\obj\Debug\Bebidas.pdb

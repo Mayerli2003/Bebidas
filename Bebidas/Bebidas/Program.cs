@@ -105,9 +105,9 @@ namespace Bebidas
 
                 Console.WriteLine("-------------------------------------");
                 Console.WriteLine("-----Ingrese  Sus Datos----- \n");
-                Console.WriteLine("Nombre:");
+                Console.WriteLine("Ingrese su Nombre:");
                 Nombre = Console.ReadLine();
-                Console.WriteLine("Ingrese Su Apellido:");
+                Console.WriteLine("Ingrese su Apellido:");
                 Apellido = Console.ReadLine();
                 Console.WriteLine("Ingrese Su edad:");
                 Edad = int.Parse(Console.ReadLine());
@@ -131,7 +131,7 @@ namespace Bebidas
             }
         }
 
-        class Empleado
+        class Empleado: Personas
         {
 
             private string nombre;
